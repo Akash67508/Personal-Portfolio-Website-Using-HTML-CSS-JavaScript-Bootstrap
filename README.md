@@ -1,0 +1,2 @@
+# Personal-Portfolio-Website-Using-HTML-CSS-JavaScript-Bootstrap
+A personal portfolio site is vital for showcasing work and skills. It typically comprises sections like Home, About, Services, Skills, Teams, and Contact, all on one page. The homepage features a sticky navigation bar with a logo and navigation links. Texts on the left side include the author's name, profession, and a "Hire me" button.
